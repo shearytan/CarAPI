@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{C9B3E663-ED47-4112-8224-AEE31222B61E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarAPI/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="CarAPI/Startup.cs" Line="6" Column="23" />
+      <File FileName="CarAPI/Controllers/ValuesController.cs" Line="57" Column="15" />
+      <File FileName="CarAPI/Models/CarContext.cs" Line="3" Column="23" />
+      <File FileName="CarAPI/Models/CarItem.cs" Line="6" Column="25" />
+      <File FileName="CarAPI/Program.cs" Line="17" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CarAPI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
